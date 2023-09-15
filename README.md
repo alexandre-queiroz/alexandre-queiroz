@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandre-queiroz&count_private=true&theme=dracula&include_all_commits=true)](https://github.com/alexandre-queiroz)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandre-queiroz&count_private=true&theme=dracula)](https://github.com/alexandre-queiroz)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-queiroz&layout=compact)](https://github.com/alexandre-queiroz)
 
