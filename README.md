@@ -18,7 +18,7 @@ I graduated in **Systems Analysis and Development**, got an MBA in **Artificial 
 <h2>⭐ Information about my GitHub account </h2>
 
 <a href="https://github-readme-stats-git-master-alexandre-queiroz.vercel.app/api?username=alexandre-queiroz&count_private=true">
-  <img height=180 align="center" src="https://github-readme-stats-git-master-alexandre-queiroz.vercel.app/api?username=alexandre-queiroz&count_private=true&theme=dracula" />
+  <img height=180 align="center" src="https://github-readme-stats-git-master-alexandre-queiroz.vercel.app/api?username=alexandre-queiroz&count_private=true&hide=contribs&theme=dracula" />
 </a>
 <a href="https://github-readme-stats-git-master-alexandre-queiroz.vercel.app/api/top-langs?username=alexandre-queiroz">
   <img height=180 align="center" src="https://github-readme-stats-git-master-alexandre-queiroz.vercel.app/api/top-langs?username=alexandre-queiroz&layout=compact&langs_count=8&card_width=356&theme=dracula" />
