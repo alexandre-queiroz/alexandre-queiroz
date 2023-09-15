@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandre-queiroz&count_private=true&theme=dracula)](https://github.com/alexandre-queiroz)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-queiroz&layout=compact)](https://github.com/alexandre-queiroz)
+<a href="https://github.com/alexandre-queiroz">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alexandre-queiroz&count_private=true&theme=dracula" />
+</a>
+<a href="https://github.com/alexandre-queiroz">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs??username=alexandre-queiroz&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!--
 **alexandre-queiroz/alexandre-queiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
