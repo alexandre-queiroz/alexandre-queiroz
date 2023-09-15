@@ -16,6 +16,14 @@ I graduated in **Systems Analysis and Development**, got an MBA in **Artificial 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="npm"/></code>
 
+<h2>📫 How to reach me</h2>
+<a href="https://github.com/alexandre-queiroz">
+  <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/alexandre-a-queiroz/">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 <hr>
 
 <h2>⭐ Information about my GitHub account </h2>
