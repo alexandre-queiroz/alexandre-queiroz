@@ -1,7 +1,7 @@
 <h2>Hi, I am Alexandre Queiroz!</h2> 
 
 I wear several hats in the tech world, I'm a **Software developer**, **Data engineer**, and **Tech lead**. <br><br>
-I graduated in Systems Analysis and Development, got an MBA in Artificial Intelligence and BOT Engineering, abnd I'm currently in the final semesters of my Data Analysis specialization.
+I graduated in Systems Analysis and Development, got an MBA in Artificial Intelligence and BOT Engineering, I'm currently in the final semesters of my Data Analysis specialization.
 
 <h2>🚀 Main Skills </h2>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -14,7 +14,7 @@ I graduated in Systems Analysis and Development, got an MBA in Artificial Intell
 
 <hr>
 
-⭐ Information about my GitHub account
+<h2>⭐ Information about my GitHub account </h2>
 
 <a href="https://github-readme-stats-git-master-alexandre-queiroz.vercel.app/api?username=alexandre-queiroz">
   <img height=180 align="center" src="https://github-readme-stats-git-master-alexandre-queiroz.vercel.app/api?username=alexandre-queiroz&count_private=true&theme=dracula&card_width=320&hide=stars,contribs" />
