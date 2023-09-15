@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<a href="https://github.com/alexandre-queiroz">
+<a href="https://github-readme-stats-git-master-alexandre-queiroz.vercel.app/api?username=alexandre-queiroz">
   <img height=200 align="center" src="https://github-readme-stats-git-master-alexandre-queiroz.vercel.app/api?username=alexandre-queiroz&count_private=true&theme=dracula&card_width=280" />
 </a>
-<a href="https://github.com/alexandre-queiroz">
+<a href="github-readme-stats-git-master-alexandre-queiroz.vercel.app/api/top-langs?username=alexandre-queiroz">
   <img height=200 align="center" src="https://github-readme-stats-git-master-alexandre-queiroz.vercel.app/api/top-langs?username=alexandre-queiroz&layout=compact&langs_count=8&theme=dracula" />
 </a>
 
