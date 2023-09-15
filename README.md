@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandre-queiroz)](https://github.com/alexandre-queiroz)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandre-queiroz&count_private=true)](https://github.com/alexandre-queiroz)
 
 <!--
 **alexandre-queiroz/alexandre-queiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
