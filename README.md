@@ -1,7 +1,8 @@
-🍀 ##Olá, meu nome é Alexandre Queiroz!
+as🍀 Olá, meu nome é Alexandre Queiroz!
 
 Especialista nas áreas de **Inteligência Artificial** e **Análise de Dados**
 
+======
 
 🚀 Minhas Skills
 c Javascript Typescript Nodejs HTML5 CSS Bootstrap React Angular MySQL PostegreSQL MongoDB
