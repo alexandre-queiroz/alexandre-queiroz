@@ -1,6 +1,6 @@
 <h2>Hi, I am Alexandre Queiroz!</h2> 
 
-🌐 I’m wear several hats in the tech world, I'm a **Software developer**, **Data engineer** and **Tech lead**. <br><br>
+🌐 I wear several hats in the tech world, I'm a **Software developer**, **Data engineer** and **Tech lead**. <br><br>
 🔭 I’m currently working on a personal and private project to create a digital twin. <br><br>
 🎓 I’m graduated in **Systems Analysis and Development**, got an MBA in **Artificial Intelligence** and **BOT Engineering**, I'm currently in the final semesters of my **Data Analysis** specialization. <br><br>
 🌱 I’m currently learning AR/VR.
