@@ -1,7 +1,7 @@
 <h2>Hi, I am Alexandre Queiroz!</h2> 
 
 🌐 I wear several hats in the tech world, I'm a **Software developer**, **Data engineer** and **Tech lead**. <br><br>
-🎓 I’m graduated in **Systems Analysis and Development**, got an specialization in Data Science, MBA in **Artificial Intelligence** and **BOT Engineering** <br><br>
+🎓 I’m graduated in **Systems Analysis and Development**, got an specialization in **Data Science**, MBA in **Artificial Intelligence** and **BOT Engineering** <br><br>
 🌱 I’m currently learning AR/VR.
 
 <h2>🚀 Main Skills </h2>
